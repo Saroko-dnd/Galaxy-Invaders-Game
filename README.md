@@ -1,7 +1,7 @@
 # TRTPO-Project 
 # Galaxy Invaders
 # Браузерная игра жанра Space Shooter  
-Язык реализации: Javascript (Typescript) 
+Язык реализации: Javascript (Typescript)  
 Игровой движок: Phaser
 
 # Содержание
